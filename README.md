@@ -3,7 +3,7 @@
 Reproducible Python pipeline for the analysis of the 19 Arabidopsis thaliana founder lines proteome.
 
 ## Overview
-This project implements a structured workflow to process, integrate, and analyse quantitative proteomics data generated from multiple Arabidopsis accessions. Developed in at the University of Cambridge (Lilley Lab), in the context of the project "What determined protein stability in plants", focusing on understanding the determinants of protein stability in Arabidopsis thaliana
+This project implements a structured workflow to process, integrate, and analyse quantitative proteomics data generated from multiple Arabidopsis accessions. Developed in at the University of Cambridge (Lilley Lab), in the context of the project "What determined protein stability in plants", focusing on understanding the determinants of protein stability in _Arabidopsis thaliana_. 
 
 ## Features
 - Quality control of large-scale proteomics datasets (filtering, consistency checks, summary metrics)
